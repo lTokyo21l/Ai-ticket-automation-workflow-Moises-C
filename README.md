@@ -15,7 +15,7 @@ This repository documents the workflow and prompt engineering techniques used to
 
 ---
 
-## 🚀 The Problem & Solution
+## 🚀 The Problem and Solution
 
 ### The Challenge
 High volume of repetitive support tickets leading to longer response times and potential drops in customer satisfaction metrics.
